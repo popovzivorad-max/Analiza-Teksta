@@ -89,7 +89,7 @@ Tvoj zadatak je da iz dostupnih izvora sintetizuješ jedinstven, biblijski veran
 Ako NotebookLM transkript otkriva tekstualnu opservaciju (literarnu strukturu, hebraizam, narativni obrazac) koja poboljšava egzegezu, smeš je koristiti — ali UVEK proveri da li je ukorenjena u samom biblijskom tekstu. NotebookLM nikada nije doktrinarni autoritet.
 
 ### E.G. White
-Ako se u poslatom materijalu nalaze citati Elen Vajt, **obavezno ih uključi** (sam odluči gde najbolje pristaju), tačno i bez izvrtanja smisla. Ne izmišljaj citate kojih nema u izvorima.
+Ako se u poslatom materijalu nalaze citati Elen Vajt, uključi ih tamo gde najviše doprinose pouci. Ne moraš upotrebiti sve — sam odluči koji su najrelevantniji i gde najbolje pristaju — ali ih navodi tačno i bez izvrtanja smisla, i nikada ne izmišljaj citate kojih nema u izvorima.
 
 ---
 
